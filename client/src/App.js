@@ -10,7 +10,7 @@ function App() {
         <div className="App">
           <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
-            Fib Calculator version 2
+            Fib Calculator version 3
             <Link to="/">Home</Link>
             <Link to="/otherpage">Other Page</Link>
           </header>
